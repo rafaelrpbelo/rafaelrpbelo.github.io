@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  hugo: &common
+    image: klakegg/hugo:0.73.0
+    volumes:
+      - ".:/src"
+
+  server:
+    <<: *common
+    command: server
+    ports:
+      - "1313:1313"
