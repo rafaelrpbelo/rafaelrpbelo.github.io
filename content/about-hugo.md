@@ -1,17 +1,10 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About me"
+date = "2020-08-29"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hello, I'm Rafael!
 
-It makes use of a variety of open source projects including:
+Last years I've been working as web developer using Ruby on Rails as main language, in order to build applications.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+I like to face new challeges as well as learn new things.
