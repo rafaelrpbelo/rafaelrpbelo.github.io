@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Belo</title>
+    <link>https://rafaelrpbelo.github.io/</link>
+    <description>Recent content on Rafael Belo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 10 Jul 2020 11:36:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://rafaelrpbelo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://rafaelrpbelo.github.io/about-hugo/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelrpbelo.github.io/about-hugo/</guid>
+      <description>Hello, I&amp;rsquo;m Rafael!
+Last years I&amp;rsquo;ve been working as web developer using Ruby on Rails as main language, in order to build applications.
+I like to face new challeges as well as learn new things.</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://rafaelrpbelo.github.io/posts/typography/</link>
+      <pubDate>Fri, 10 Jul 2020 11:36:33 +0800</pubDate>
+      
+      <guid>https://rafaelrpbelo.github.io/posts/typography/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis cursus, augue ut varius molestie, ipsum sem ultricies diam, ac feugiat urna lectus sed mi. Quisque tristique metus risus, nec scelerisque odio ultricies ut. Sed hendrerit ante eget libero varius, vitae placerat lectus imperdiet. Suspendisse pellentesque nibh in finibus posuere. Morbi pharetra tempor turpis a suscipit. Sed scelerisque auctor urna sit amet vestibulum. Suspendisse accumsan tincidunt risus, sit amet ullamcorper risus posuere quis.</description>
+    </item>
+    
+  </channel>
+</rss>
